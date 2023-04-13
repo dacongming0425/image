@@ -1,1 +1,7 @@
 # image
+![Indifference curve and budget line](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXoAAAFjCAYAAAD8pi2KAAAAAXNSR0IArs4c6QAA
+AN9JREFUeAHtnMlOwkAMRUD8vojC/4/f4AKzmAaG/TSHXNzdXbh42Njrs982QzCZGxrcXFyK
+O4w/JxcenOGEKM0+lwXhOM+CfSgirxbQG+thxak/fa1QdkRReojNNcOd0oiaJOOnyBil6qFN
+0o0EKQQH60z6ZCm3qVp76wLKwmSDxtki1HAJ9IidQdEGb27SzMTowuKgeIJfwUCgnYPuYDv+
+jN2uVdbBpd9tF5V5r5cqozJjV/uvzSfKjydn+F/l8h38QRQfE1j4kb1Mwe0Im0oLpFnDei6
+sHs3j3sU8W+wYmkFXvrsHfezQZjxXjmWgAAAAASUVORK5CYII=)
